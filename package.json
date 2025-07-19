@@ -2,6 +2,22 @@
   "name": "jsm_live_docs",
   "version": "0.1.0",
   "private": true,
+  "description": "",
+  "homepage": "https://github.com/Aman-Kumar342/CollabEditor---With-realtime-notif#readme",
+  "bugs": {
+    "url": "https://github.com/Aman-Kumar342/CollabEditor---With-realtime-notif/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman-Kumar342/CollabEditor---With-realtime-notif.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
